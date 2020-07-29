@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning React-Native.
 - 🤔 I’m available to collaborate on any project with JS
 - 📫 You can reach me at [https://pranavms.ml/#contact](https://pranavms.ml/#contact) 
+
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavms13&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavms13&hide=makefile,perl&theme=radical)
