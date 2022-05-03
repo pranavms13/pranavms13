@@ -32,7 +32,7 @@
 ```py
 About Me = [
     "I'm student with good coding skills",
-    "A know stuff in JS, Python, PHP, React, R-Native, Java and lot of Web3 Technology",
+    "I know stuff in JS, Python, PHP, React, R-Native, Java and lot of Web3 Technology",
     "New Ideas to code everyday",
     "Building my world Block by Block"
     "Blockchain and Cybersec are my best interests"
