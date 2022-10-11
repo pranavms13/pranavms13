@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **anything**. I'll try my best to answer it. 😁
 
-- 📫 How to reach me **contact@pranavms.xyz**
+- 📫 How to reach me **contact@pranavms.dev**
 
 <br><br>
 
