@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working as a **Full Stack Developer** at (Tvast IT Solutions)[https://github.com/tvast-it-solutions]
+- 🔭 I’m currently working as a **Full Stack Developer** at [Tvast IT Solutions](https://github.com/tvast-it-solutions)
 
 - 🌱 I’m currently learning **Flutter**
 
