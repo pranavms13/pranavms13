@@ -31,17 +31,17 @@
 
 ```py
 About Me = [
-    "I'm student with good coding skills",
+    "I have good coding skills",
     "I know stuff in JS, Python, PHP, React, R-Native, Java and lot of Web3 Technology",
     "New Ideas to code everyday",
     "Building my world Block by Block"
     "Blockchain and Cybersec are my best interests"
 ]
 ```
-<br><a href="https://pranavms.xyz"><p align="center">&nbsp;<img align="center" href="https://github.com/pranavms13" src="https://github-readme-stats.vercel.app/api?username=pranavms13&theme=algolia&show_icons=true&count_private=true&border_radius=10" alt="pranavms13"/></p></a>
+<br><a href="https://pranavms.dev"><p align="center">&nbsp;<img align="center" href="https://github.com/pranavms13" src="https://github-readme-stats.vercel.app/api?username=pranavms13&theme=algolia&show_icons=true&count_private=true&border_radius=10" alt="pranavms13"/></p></a>
 
 
-<br><a href="https://pranavms13.xyz/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavms13&theme=algolia&langs_count=10&hide_border=true&show_icons=true&count_private=true&border_radius=10" alt="Most Used Languages By Me Pranav M S"/></p></a><br> 
+<br><a href="https://pranavms.dev/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavms13&theme=algolia&langs_count=10&hide_border=true&show_icons=true&count_private=true&border_radius=10" alt="Most Used Languages By Me Pranav M S"/></p></a><br> 
 
 
 <br><br>
@@ -65,5 +65,5 @@ About Me = [
 <a href="https://discordapp.com/users/417251029168685057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="pranavms13" height="30" width="40" /></a>
 <a href="https://instagram.com/pranavms13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranavms13" height="30" width="40" /></a>
 <a href="https://telegram.me/pranavms13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="pranavms13" height="30" width="40" /></a>
-<a href="mailto:contact@pranavms.xyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="pranavms13" height="30" width="40" /></a>
+<a href="mailto:contact@pranavms.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="contact@pranavms.dev" height="30" width="40" /></a>
 </p>
