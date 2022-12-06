@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/pranavms13/"><img width="170px" height="24" src="https://profile-counter.glitch.me/pranavms13/count.svg" alt="pranavms13" /></a> </p><br>
 
-<p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
+<p align="center"><a href="https://pranavms.dev/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
 
 
