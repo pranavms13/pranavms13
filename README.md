@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m an engineering student and i'm currently working as a **Blockchain Developer**
+- 🔭 I’m currently working as a **Full Stack Developer** at (Tvast IT Solutions)[https://github.com/tvast-it-solutions]
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 My Fun Fact is **i make music**
 
