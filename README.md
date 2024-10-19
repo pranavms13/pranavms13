@@ -7,14 +7,14 @@
 <a href="https://steamcommunity.com/id/pranavms13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/steam.svg" alt="steam/pranavms13" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">Open-Source Development with JS and Python❤️ <br> I like working on new ideas for Web3</h4>
+<h4 align="center">Open-Source Development with JS, Python and Go <br> I like working on new ideas for Web3</h4>
 
 <p align="center"><a href="https://pranavms.dev/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
 
 
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Developer at Tvast IT Solutions<br><br>🌱 I’m currently learning Flutter<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Blockchain Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 How to reach me contact@pranavms.dev
+🔭 I’m currently working as a Developer at <a href="https://blueyonder.com">BlueYonder</a><br><br>🌱 I’m currently learning Flutter<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Blockchain Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 How to reach me contact@pranavms.dev
 
 
 ## 🌐 Socials:
