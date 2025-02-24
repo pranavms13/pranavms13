@@ -15,7 +15,7 @@
 
 
 # 💫 About Me
-🔭 I’m currently working as a Developer at <a href="https://blueyonder.com">BlueYonder</a><br><br>🌱 I’m currently learning GenAI<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 Reach me at <a href="mailto:contact@pranavms.dev">contact@pranavms.dev</a>
+🔭 I’m currently working as a Software Engineer at <a href="https://blueyonder.com">BlueYonder</a><br><br>🌱 I’m currently learning GenAI<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 Reach me at <a href="mailto:contact@pranavms.dev">contact@pranavms.dev</a>
 
 
 ## 🌐 Connect
