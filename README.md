@@ -1,13 +1,6 @@
 <h1 align="center">Hi. I'm Pranav M S</h1>
 
 
-
-<p align="center">
-<a href="https://hackerrank.com/pranavms13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/hackerrank.svg" alt="hackerrank/pranavms13" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/profile/269741" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/hackthebox.svg" alt="hackthebox/pranavms13" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/pranavms13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/steam.svg" alt="steam/pranavms13" height="30" width="40" /></a>
-</p>
-
 <h4 align="center">Open-Source Development with JS, Python and Go <br> I like working on new ideas for Web3 + GenAI</h4>
 
 <p align="center"><a href="https://pranavms.dev/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
@@ -22,6 +15,14 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pranavms13)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01ad5c93ccc48a040c)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranavms13) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pranavms13) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavms13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pranavms13) 
+
+
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-pranavms13-%23000000?logo=hackerrank)](https://hackerrank.com/pranavms13)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-pranavms13-%23000000?logo=hackthebox)](https://app.hackthebox.com/profile/269741)
+[![Steam](https://img.shields.io/badge/Steam-pranavms13-%23000000?logo=steam)](https://steamcommunity.com/id/pranavms13/)
+
+
+
 
 ## 💻 Tech Stack
 
