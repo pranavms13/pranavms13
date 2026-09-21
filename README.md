@@ -49,8 +49,6 @@
 |-------------------|--------------------------|
 | ![](https://github-stats-five-tau.vercel.app/api/top-langs/?username=pranavms13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-stats-five-tau.vercel.app/api?username=pranavms13&theme=dark&hide_border=false&include_all_commits=true&count_private=true) |
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
 #### 💰 Sponsor ?
 [![pranavms.dev/sponsor](https://img.shields.io/badge/pranavms.dev-/sponsor-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
