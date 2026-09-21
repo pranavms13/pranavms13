@@ -1,14 +1,14 @@
 <h1 align="center">Hi. I'm Pranav M S</h1>
 
 
-<h4 align="center">Open-Source Development with JS, Python and Go <br> I like working on new ideas for Web3 + GenAI</h4>
+<h4 align="center">Open-Source Development with JS, Python and Go <br> I like working on new ideas for GenAI</h4>
 
 <p align="center"><a href="https://pranavms.dev/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
 
 
 # 💫 About Me
-🔭 I’m currently working as a Software Engineer at <a href="https://blueyonder.com">BlueYonder</a><br><br>🌱 I’m currently learning GenAI<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 Reach me at <a href="mailto:contact@pranavms.dev">contact@pranavms.dev</a>
+🔭 I’m currently working as a Software Engineer 2 at <a href="https://blueyonder.com">BlueYonder</a><br><br>🌱 I’m currently learning GenAI<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 Reach me at <a href="mailto:contact@pranavms.dev">contact@pranavms.dev</a>
 
 
 ## 🌐 Connect
@@ -49,7 +49,8 @@
 |-------------------|--------------------------|
 | ![](https://github-stats-five-tau.vercel.app/api/top-langs/?username=pranavms13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-stats-five-tau.vercel.app/api?username=pranavms13&theme=dark&hide_border=false&include_all_commits=true&count_private=true) |
 
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 #### 💰 Sponsor ?
-| [![pranavms.dev/sponsor](https://img.shields.io/badge/pranavms.dev-/sponsor-orange)](https://pranavms.dev/sponsor) | [![Ethereum](https://img.shields.io/badge/Ethereum-pranavms.eth-black?logo=ethereum&logoColor=white)](ethereum:pay-pranavms.eth) | [![UPI](https://img.shields.io/badge/UPI-pranavms%40fifederal-black?logo=fi)](upi://pay?pa=pranavms@fifederal&cu=INR&pn=Pranav%20M%20S&tn=Donation%20pranavms.dev) |
-|--|--|--|
+[![pranavms.dev/sponsor](https://img.shields.io/badge/pranavms.dev-/sponsor-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
